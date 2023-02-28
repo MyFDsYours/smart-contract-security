@@ -2,12 +2,12 @@
 
 Quality : grade b
 
-[L-01] Constants not declared
-[L-02] Inefficient Boolean Mappings
-[L-03] Checking for collateral assets twice in the same function
-[NC-01] Storage gaps not explicitly documented
-[NC-02] Splitting require() statements that use multiple condition
-[NC-03] To improve the readability, consider changing the event name
+#### [L-01] Constants not declared
+#### [L-02] Inefficient Boolean Mappings
+#### [L-03] Checking for collateral assets twice in the same function
+#### [NC-01] Storage gaps not explicitly documented
+#### [NC-02] Splitting require() statements that use multiple condition
+#### [NC-03] To improve the readability, consider changing the event name
 
 # [L-01] Constants not declared
 
